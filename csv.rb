@@ -1,0 +1,11 @@
+require "csv"
+
+hash = Hash.new(0)
+CSV.foreach("learn.csv") do |row|
+  hash[row[1]] += 1
+end
+
+hash = hash.sort_by{|k,v| v}.reverse
+hash.each do |key, value|
+  puts key + " " + value.to_s
+end
