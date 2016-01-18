@@ -1,10 +1,10 @@
 content,category,url
-Adapter pattern, designpattern, https://github.com/yutakakinjyo/proc-cpp/tree/master/design_pattern/adapter
-Good Tech Lead Bad Tech Lead, teamwork, http://engineering.foursquare.com/2014/01/30/good-tech-lead-bad-tech-lead/
-Two Domain Models - An Implication of DDD, DDD, http://phpmentors.jp/post/136939446193/two-domain-models-implication-of-ddd-ja
-Flyweight pattern, designpattern, https://github.com/yutakakinjyo/proc-cpp/tree/master/design_pattern/flyweight
-return code of diff command, Linux, http://six-pence.blogspot.jp/2013/05/techunix-diff.html
-システムテスト自動化カンファレンス 2015, automation, http://www.publickey1.jp/blog/16/_2015.html
-static link library, gcc, http://www.yunabe.jp/docs/static_library.html
-Singleton pattern, designpattern, https://github.com/yutakakinjyo/proc-cpp/tree/master/design_pattern/singleton
-知識創造の方法論―ナレッジワーカーの作法,intelligence, http://booklog.jp/item/1/B00FFUL4NC
+Adapter pattern,designpattern,https://github.com/yutakakinjyo/proc-cpp/tree/master/design_pattern/adapter
+Good Tech Lead Bad Tech Lead,teamwork,http://engineering.foursquare.com/2014/01/30/good-tech-lead-bad-tech-lead/
+Two Domain Models - An Implication of DDD,DDD,http://phpmentors.jp/post/136939446193/two-domain-models-implication-of-ddd-ja
+Flyweight pattern,designpattern,https://github.com/yutakakinjyo/proc-cpp/tree/master/design_pattern/flyweight
+return code of diff command,Linux,http://six-pence.blogspot.jp/2013/05/techunix-diff.html
+システムテスト自動化カンファレンス 2015,automation,http://www.publickey1.jp/blog/16/_2015.html
+static link library,gcc,http://www.yunabe.jp/docs/static_library.html
+Singleton pattern,designpattern,https://github.com/yutakakinjyo/proc-cpp/tree/master/design_pattern/singleton
+知識創造の方法論―ナレッジワーカーの作法,intelligenc, http://booklog.jp/item/1/B00FFUL4NC
