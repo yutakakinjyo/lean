@@ -1,7 +1,8 @@
 require "csv"
 
+
 CSV.open("learn.csv", "a+") do |csv|
-  csv << ["hoge", "hoge", "hoge"]
+  csv << [title, category, url]
 end
 
 # str = gets
