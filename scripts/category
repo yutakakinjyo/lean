@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require "csv"
 
 hash = Hash.new(0)
