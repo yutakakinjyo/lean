@@ -1,3 +1,5 @@
+#! /usr/bin/env ruby
+
 require "csv"
 
 puts "enter title"
