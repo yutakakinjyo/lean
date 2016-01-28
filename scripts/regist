@@ -2,3 +2,5 @@
 
 ./scripts/register
 git diff
+git add learn.csv
+git ci -m "add row"
